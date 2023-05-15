@@ -35,7 +35,7 @@ As a recent graduate, I have a strong background in Software Engineering. During
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emetegift&langs_count=8&layout=compact&hide_border=true" alt="Gift's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=emetegift_icons=true&include_all_commits=true&hide_border=true" alt="Gift's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emetegift&langs_count=8&layout=compact&hide_border=true" alt="Gift's GitHub stats" /> |
 | ------------- | ------------- |
 <br>
 

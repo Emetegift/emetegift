@@ -15,7 +15,7 @@ As a recent graduate, I have a strong background in Software Engineering. During
 - 🌱 I recently graduated from AltSchool Africa's Backend Engineering program and have gained skills in HTML, CSS, Bootstrap, Semantic-ui, JavaScript, Python, Flask, Django, SQLite, PostgreSQL, and REST API.
 - 😊 I’m currently seeking opportunities to contribute to open source projects, participate in hackathons, and gain entry-level experience in software development.
 - 💼 Job interests: Junior Software Developer, Python Developer (Intern or Entry-level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lmo7_luXJLXFAKgj51SyMhHwa2GkXPHt/view?usp=drivesdk) and contact me at emetegift00@gmail.com
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Ezw-MAEsyhjYS3mFKBIZvLeU23iMB2dm/view?usp=drivesdk) and contact me at emetegift00@gmail.com
 
 ---
 #### Tech Stacks:
